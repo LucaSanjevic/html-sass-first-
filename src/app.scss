@@ -1,0 +1,17 @@
+$brand: red;
+$brand-blue: blue;
+$brand-black: black;
+
+h1, h2 {
+    border: solid 1px brand-black
+}
+
+p {
+    color: $brand-blue
+}
+
+
+button {
+    color: $brand
+}
+
